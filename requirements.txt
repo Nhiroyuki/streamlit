@@ -1,9 +1,0 @@
-#pip install -r requirements.txt
-
-langchain
-openai
-unstructured
-tiktoken
-faiss-gpu
-pypdf
-chromadb
